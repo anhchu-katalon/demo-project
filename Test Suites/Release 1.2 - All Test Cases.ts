@@ -94,4 +94,11 @@
          <variableId>12db7b5a-6bfc-4927-83be-322afbf82b91</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f17a0865-3e39-4d45-aafc-a6e78dfd83f8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Validate appointment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
